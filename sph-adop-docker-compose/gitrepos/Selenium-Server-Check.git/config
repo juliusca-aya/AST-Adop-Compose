@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = http://john.smith:Password01@52.91.253.191/gerrit/Selenium-Server-Check
+	fetch = +refs/*:refs/*
+	mirror = true
